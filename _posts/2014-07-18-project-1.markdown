@@ -3,9 +3,9 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: allocalculator.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+alt: allocalculator-logo
+project-date: 2023
+ios-app-store: https://apps.apple.com/us/app/allocalculator/id1666410005
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Financial calculator that quickly calculates how much of each asset to buy or sell. No more manual calculations or spreadsheets. Simply set your target allocation, update the amounts in your portfolio, and let AlloCalculator tell you what you need to change.
 ---
