@@ -1,12 +1,13 @@
 ---
 layout: default
 title: AlloCalculator
+subtitle: Rebalance Your Portfolio
 modal-id: 1
 date: 2014-07-18
 img: allocalculator.png
 alt: allocalculator-logo
 project-date: 2023
 ios-app-store: https://apps.apple.com/us/app/allocalculator/id1666410005
-category: Web Development
+category: App Development
 description: Financial calculator that quickly calculates how much of each asset to buy or sell. No more manual calculations or spreadsheets. Simply set your target allocation, update the amounts in your portfolio, and let AlloCalculator tell you what you need to change.
 ---
